@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 """
 Given an URL in string, make a requests, fetches its content,
 and BeautifulSoup the content.
