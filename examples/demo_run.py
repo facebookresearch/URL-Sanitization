@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 """
 Demo Run
 It loads data from url_training_data_path and trains a rule for each full
