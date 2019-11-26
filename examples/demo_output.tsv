@@ -1,0 +1,4 @@
+index	urlid	canonical_url	clean_url	params_dropped	params_kept
+0	1874623472599061	https://recruitment.thepanelstation.com/index?cid=PA4L38EYMPNWZSRCZEZA11008V0X1V8XTVBIZ1DJPANKD&lid=6	https://recruitment.thepanelstation.com/index	["cid", "lid"]	[]
+1	1956015831175452	https://secure.petafrance.com/page/40847/donate/1?locale=fr-FR	https://secure.petafrance.com/page/40847/donate/1	["locale"]	[]
+2	1889394224503914	https://www.medfin.in/m/varicose10?locality_page=locality-listing	https://www.medfin.in/m/varicose10	["locality_page"]	[]
